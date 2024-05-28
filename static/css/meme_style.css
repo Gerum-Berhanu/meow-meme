@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.bg-gradient-lime {
+    background: rgb(0, 48, 82);
+    background: linear-gradient(90deg, rgba(0, 48, 82, 1) 0%, rgba(9, 83, 121, 1) 30%, rgba(12, 84, 124, 1) 70%, rgba(0, 180, 163, 1) 100%);
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 500px;
+}
